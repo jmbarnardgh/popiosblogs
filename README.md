@@ -14,10 +14,15 @@ Clone this repository into your `$HOME` directory.
 
 Ensure your `.bashrc` or `.bash_profile` is aware of the alias `popiosrefs` from within the cloned directory.
 
+Add this line:
+
+`source "./popiosrefs/"`
+
+
 #### 3. Execute
 
   1. Open Terminal.
-  2. Execute `popiosblogs`.
+  2. Execute `popiosrefs`.
   3. Watch your browser explode with tabs/windows!
   4. Peruse and close tabs/windows one-by-one until you're caught up with the times.
   5. Wash, rinse, repeat as needed.
