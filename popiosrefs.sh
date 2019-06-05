@@ -14,5 +14,6 @@ POP_iOS_REF_LIST="$POP_iOS_REF_LIST 'http://www.macrumors.com/'"
 POP_iOS_REF_LIST="$POP_iOS_REF_LIST 'https://swift.org/blog/'"
 POP_iOS_REF_LIST="$POP_iOS_REF_LIST 'https://iosdevdirectory.com/'"
 POP_iOS_REF_LIST="$POP_iOS_REF_LIST 'https://developer.apple.com/news/'"
+POP_iOS_REF_LIST="$POP_iOS_REF_LIST 'https://hackingwithswift.com'"
 
 alias popiosrefs="open $POP_iOS_REF_LIST"
